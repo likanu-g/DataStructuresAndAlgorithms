@@ -37,16 +37,6 @@ public class T0008 {
 
     public static void main(String[] args) {
 
-        /**
-         *
-         *             3
-         *            /  \
-         *           9    20
-         *          /    /  \
-         *         5    15   7
-         *             /
-         *            17
-         */
         TreeNode tree = new TreeNode();
         tree.val = 3;
         tree.left = new TreeNode();
